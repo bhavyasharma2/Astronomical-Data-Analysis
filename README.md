@@ -1,4 +1,4 @@
-# Astronomical-Data-Analysis using SDSS Tabular Data 
+# Astronomical Data Analysis using SDSS Tabular Data 
 
 **Overview**
 
